@@ -1,6 +1,6 @@
 package main
 
-import "example.com/design-patterns/facade"
+import "example.com/design-patterns/flyweight"
 
 func main() {
 	//specification.Run()
@@ -12,5 +12,6 @@ func main() {
 	//bridge.Run()
 	//composite.Run()
 	//decorator.Run()
-	facade.Run()
+	//facade.Run()
+	flyweight.Run()
 }
