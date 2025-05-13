@@ -1,4 +1,4 @@
-module example.com/design-patterns
+module github.com/ViXP/go-design-patterns
 
 go 1.23.4
 

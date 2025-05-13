@@ -1,6 +1,6 @@
 package main
 
-import "example.com/design-patterns/flyweight"
+import "github.com/ViXP/go-design-patterns/flyweight"
 
 func main() {
 	//specification.Run()
