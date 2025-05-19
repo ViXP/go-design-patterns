@@ -1,6 +1,8 @@
 package main
 
-import "github.com/ViXP/go-design-patterns/flyweight"
+import (
+	"github.com/ViXP/go-design-patterns/proxy"
+)
 
 func main() {
 	//specification.Run()
@@ -13,5 +15,6 @@ func main() {
 	//composite.Run()
 	//decorator.Run()
 	//facade.Run()
-	flyweight.Run()
+	//flyweight.Run()
+	proxy.Run()
 }
