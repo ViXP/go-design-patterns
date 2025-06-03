@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ViXP/go-design-patterns/proxy"
+	"github.com/ViXP/go-design-patterns/chain_of_responsibility"
 )
 
 func main() {
@@ -16,5 +16,6 @@ func main() {
 	//decorator.Run()
 	//facade.Run()
 	//flyweight.Run()
-	proxy.Run()
+	//proxy.Run()
+	chain_of_responsibility.Run()
 }
