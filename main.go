@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ViXP/go-design-patterns/chain_of_responsibility"
+	"github.com/ViXP/go-design-patterns/command"
 )
 
 func main() {
@@ -17,5 +17,6 @@ func main() {
 	//facade.Run()
 	//flyweight.Run()
 	//proxy.Run()
-	chain_of_responsibility.Run()
+	//chain_of_responsibility.Run()
+	command.Run()
 }
