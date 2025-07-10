@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ViXP/go-design-patterns/command"
+	"github.com/ViXP/go-design-patterns/interpreter"
 )
 
 func main() {
@@ -18,5 +18,6 @@ func main() {
 	//flyweight.Run()
 	//proxy.Run()
 	//chain_of_responsibility.Run()
-	command.Run()
+	//command.Run()
+	interpreter.Run()
 }
