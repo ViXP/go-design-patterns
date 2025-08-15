@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ViXP/go-design-patterns/interpreter"
+	"github.com/ViXP/go-design-patterns/iterator"
 )
 
 func main() {
@@ -19,5 +19,6 @@ func main() {
 	//proxy.Run()
 	//chain_of_responsibility.Run()
 	//command.Run()
-	interpreter.Run()
+	//interpreter.Run()
+	iterator.Run()
 }
