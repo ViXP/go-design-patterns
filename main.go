@@ -1,8 +1,6 @@
 package main
 
-import (
-	"github.com/ViXP/go-design-patterns/iterator"
-)
+import "github.com/ViXP/go-design-patterns/mediator"
 
 func main() {
 	//specification.Run()
@@ -20,5 +18,6 @@ func main() {
 	//chain_of_responsibility.Run()
 	//command.Run()
 	//interpreter.Run()
-	iterator.Run()
+	//iterator.Run()
+	mediator.Run()
 }
