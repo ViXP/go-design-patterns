@@ -1,6 +1,8 @@
 package main
 
-import "github.com/ViXP/go-design-patterns/mediator"
+import (
+	"github.com/ViXP/go-design-patterns/memento"
+)
 
 func main() {
 	//specification.Run()
@@ -19,5 +21,6 @@ func main() {
 	//command.Run()
 	//interpreter.Run()
 	//iterator.Run()
-	mediator.Run()
+	//mediator.Run()
+	memento.Run()
 }
