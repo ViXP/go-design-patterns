@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ViXP/go-design-patterns/memento"
+	"github.com/ViXP/go-design-patterns/observer"
 )
 
 func main() {
@@ -22,5 +22,6 @@ func main() {
 	//interpreter.Run()
 	//iterator.Run()
 	//mediator.Run()
-	memento.Run()
+	//memento.Run()
+	observer.Run()
 }
