@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ViXP/go-design-patterns/state"
+	"github.com/ViXP/go-design-patterns/strategy"
 )
 
 func main() {
@@ -24,5 +24,6 @@ func main() {
 	//mediator.Run()
 	//memento.Run()
 	//observer.Run()
-	state.Run()
+	//state.Run()
+	strategy.Run()
 }
