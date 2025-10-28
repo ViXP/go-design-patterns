@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ViXP/go-design-patterns/strategy"
+	"github.com/ViXP/go-design-patterns/template_method"
 )
 
 func main() {
@@ -25,5 +25,6 @@ func main() {
 	//memento.Run()
 	//observer.Run()
 	//state.Run()
-	strategy.Run()
+	//strategy.Run()
+	template_method.Run()
 }
