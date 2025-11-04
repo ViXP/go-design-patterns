@@ -1,9 +1,5 @@
 package main
 
-import (
-	"github.com/ViXP/go-design-patterns/visitor"
-)
-
 func main() {
 	// Uncomment example running functions for any design pattern implementations you want:
 	//specification.Run()
@@ -28,5 +24,5 @@ func main() {
 	//state.Run()
 	//strategy.Run()
 	//template_method.Run()
-	visitor.Run()
+	//visitor.Run()
 }
