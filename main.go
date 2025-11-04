@@ -1,10 +1,11 @@
 package main
 
 import (
-	"github.com/ViXP/go-design-patterns/template_method"
+	"github.com/ViXP/go-design-patterns/visitor"
 )
 
 func main() {
+	// Uncomment example running functions for any design pattern implementations you want:
 	//specification.Run()
 	//builder.Run()
 	//factory.Run()
@@ -26,5 +27,6 @@ func main() {
 	//observer.Run()
 	//state.Run()
 	//strategy.Run()
-	template_method.Run()
+	//template_method.Run()
+	visitor.Run()
 }
