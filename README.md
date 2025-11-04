@@ -13,38 +13,38 @@ Each package demonstrates one pattern and includes a `Run()` function to execute
 
 ### Creational
 
-- Builder
-- Factory Method & Abstract Factory
-- Prototype
-- Singleton
+- [Builder](https://pkg.go.dev/github.com/ViXP/go-design-patterns/builder)
+- [Factory Method & Abstract Factory](https://pkg.go.dev/github.com/ViXP/go-design-patterns/factory)
+- [Prototype](https://pkg.go.dev/github.com/ViXP/go-design-patterns/prototype)
+- [Singleton](https://pkg.go.dev/github.com/ViXP/go-design-patterns/singleton)
 
 ### Structural
 
-- Adapter
-- Bridge
-- Composite
-- Decorator
-- Facade
-- Flyweight
-- Proxy
+- [Adapter](https://pkg.go.dev/github.com/ViXP/go-design-patterns/adapter)
+- [Bridge](https://pkg.go.dev/github.com/ViXP/go-design-patterns/bridge)
+- [Composite](https://pkg.go.dev/github.com/ViXP/go-design-patterns/composite)
+- [Decorator](https://pkg.go.dev/github.com/ViXP/go-design-patterns/decorator)
+- [Facade](https://pkg.go.dev/github.com/ViXP/go-design-patterns/facade)
+- [Flyweight](https://pkg.go.dev/github.com/ViXP/go-design-patterns/flyweight)
+- [Proxy](https://pkg.go.dev/github.com/ViXP/go-design-patterns/proxy)
 
 ### Behavioral
 
-- Chain of Responsibility
-- Command
-- Interpreter
-- Iterator
-- Mediator
-- Memento
-- Observer
-- State
-- Strategy
-- Template Method
-- Visitor
+- [Chain of Responsibility](https://pkg.go.dev/github.com/ViXP/go-design-patterns/chain_of_responsibility)
+- [Command](https://pkg.go.dev/github.com/ViXP/go-design-patterns/command)
+- [Interpreter](https://pkg.go.dev/github.com/ViXP/go-design-patterns/interpreter)
+- [Iterator](https://pkg.go.dev/github.com/ViXP/go-design-patterns/iterator)
+- [Mediator](https://pkg.go.dev/github.com/ViXP/go-design-patterns/mediator)
+- [Memento](https://pkg.go.dev/github.com/ViXP/go-design-patterns/memento)
+- [Observer](https://pkg.go.dev/github.com/ViXP/go-design-patterns/observer)
+- [State](https://pkg.go.dev/github.com/ViXP/go-design-patterns/state)
+- [Strategy](https://pkg.go.dev/github.com/ViXP/go-design-patterns/strategy)
+- [Template Method](https://pkg.go.dev/github.com/ViXP/go-design-patterns/template_method)
+- [Visitor](https://pkg.go.dev/github.com/ViXP/go-design-patterns/visitor)
 
 ### Tactical
 
-- Specification
+- [Specification](https://pkg.go.dev/github.com/ViXP/go-design-patterns/specification)
 
 ## Running
 
